@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Poppins', sans-serif;
+}
+:root {
+  --green: #02897a;
+  --black: #22343d;
+  --white: #fff;
+  --light-blue: #4d8dff;
+  --violet: #740a76;
+  --pink: #f03e3d;
+  --orange: #c1301d;
+}
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 15px;
+}

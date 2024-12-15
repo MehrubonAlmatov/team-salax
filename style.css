@@ -128,4 +128,49 @@ h1 {
 }
 /* Zuhriddin */
 
+/* mirjalol */
+.about{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+}
+
+.about h1{
+  color: var(--text-color);
+  padding-top: 4%;
+  font-size: 18px;
+  font-weight: 700;
+  padding-bottom: 30px;
+  border-bottom: 2px solid black;
+}
+
+.about p{
+  color: var(--text-color);
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.about .row{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.about .col-1{
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 490px;
+}
+
+.about .pic{
+  justify-content: space-between;
+  display: flex;
+}
+
+
+/* mirjalol */
+
+
 
